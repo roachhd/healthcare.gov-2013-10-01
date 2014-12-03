@@ -4,7 +4,7 @@
 title: HealthCare.gov
 auto: true
 server: true
-baseurl: 
+baseurl: /healthcare.gov-2013-10-01
 permalink: /:categories/:title
 markdown: rdiscount
 exclude:
